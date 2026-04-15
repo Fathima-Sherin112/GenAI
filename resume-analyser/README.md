@@ -44,6 +44,7 @@ The **AI Resume Analyzer** is a web-based application that analyzes resumes usin
 ```
 resume-analyser/
 │── app.py
+│── resume-analyser.ipynb
 │── requirements.txt
 │── README.md
 │── .env
