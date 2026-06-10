@@ -1,0 +1,17 @@
+.env
+
+rag_env/
+
+faiss_index/
+
+__pycache__/
+*.pyc
+
+.vscode/
+.ipynb_checkpoints/
+
+notes.txt
+radom2.py
+test_rag1.py
+
+REST API Crash Course - Concepts, Python, Flask, Postgres.pdf
