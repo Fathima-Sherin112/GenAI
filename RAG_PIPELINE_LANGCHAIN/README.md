@@ -112,6 +112,11 @@ http://127.0.0.1:5000
 * Docker deployment
 * Cloud deployment using AWS
 
+## Sample Output
+
+<img width="1622" height="1077" alt="Sample_output" src="https://github.com/user-attachments/assets/12b1095f-6cc4-446a-814c-91f903d29bde" />
+
+
 ## Author
 
 **Fathima Sherin**
